@@ -1,3 +1,3 @@
-# Introduction to my portfolio - Darren Williams
-## Sub heading
+# Introduction to my Portfolio - Darren Williams
+## Full Stack Developer 
 ### Information
