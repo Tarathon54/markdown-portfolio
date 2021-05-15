@@ -5,7 +5,7 @@
    2. _**Internal**_
    3. **_External_**
 4. **JavaScript**
-  1. Learning:
+  1. **Learning:**
       1. _**What is JavaScript**_
       2. _**How and when to use**_
       3. _**Coding**_
